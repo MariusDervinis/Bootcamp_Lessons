@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Register</h1>
+
+    <form>
+        <Label for="name">First name</Label>
+        <input type="text" name="name" placeholder="John" required>
+        <Label for="surname">Last Name</Label>
+        <input type="text" name="surname" placeholder="Smith" required>
+<div>
+        <label for="Male">Male </label>
+        <input name="gender" id="male" type="radio" value="male">
+
+        <label for="Female">Female </label>
+        <input name="gender" id="female" type="radio" value="female">
+
+        <label for="Female">Other </label>
+        <input name="gender" id="neautral" type="radio" value="other">
+</div>
+        <Label for="email">Email:</Label>
+        <input type="email" name="email" placeholder="Your email" required>
+
+        <Label for="password">Password:</Label>
+        <input type="password" name="password" minlength="5" maxlength="10" required>
+<div>
+        <Label for="birthdate">Brithday:</Label>
+        <input type="month" name="month">
+</div>
+        <Label for="conditions">I agree terms and conditions</Label>
+        <input type="checkbox" name="conditions" required>
+<br>
+        <button>Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,4 @@
+enum - (redirect types)
+camel casing types -
+
+login button pasiema parametrus sukurti redirect url

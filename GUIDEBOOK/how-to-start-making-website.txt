@@ -1,0 +1,16 @@
+Klausimas, pradedant weba kurt, pirma contenta tada stiliuoji su html ir css?
+
+Kaip kuriamas website klientui?
+1.    Kliento norai
+2.    Kaip jis zada ji daily naudoti
+3.    Tikslinti norus i skiltis: naudojimas, dizainas, patogumas, reklamavimas
+    Conclusions:
+        Kaip dizainas turi atrodyti
+        Ar websaitui reikia back endo? (turi suprasti kodel reikalingas back endas)
+Sakykim kad nereikia ir daromas tik front endas:
+4.    Ideation - ideju kurimas, kaip atrodys dizainas
+5.    Low Fidelity Wireframe
+5.2. Ideation
+6.    High Fidelity Wireframe
+6.2 Ideation
+7.  website

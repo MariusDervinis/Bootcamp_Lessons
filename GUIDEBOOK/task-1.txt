@@ -1,0 +1,1 @@
+panaudoti SVG icona, idedant ja per div'e i CSS background-image
